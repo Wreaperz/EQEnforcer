@@ -1,0 +1,6 @@
+logs
+.env
+test_login.py
+screenshots
+__pycache__
+praw.ini
